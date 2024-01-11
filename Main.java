@@ -20,10 +20,10 @@ public class Main {
 
     public static void main(String[] args) {
         // Przykłady testowe
-        System.out.println(fib(0)); // Output: 0
-        System.out.println(fib(1)); // Output: 1
-        System.out.println(fib(4)); // Output: 3
-        System.out.println(fib(9)); // Output: 34
-        System.out.println(fib(12)); // Output: 144
+        System.out.println(fib(0));
+        System.out.println(fib(1));
+        System.out.println(fib(4));
+        System.out.println(fib(9));
+        System.out.println(fib(12));
     }
 }
